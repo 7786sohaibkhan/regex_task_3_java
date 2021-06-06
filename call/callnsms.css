@@ -1,0 +1,24 @@
+/*
+assignment 3 java
+#task 2
+SIRSS1264 
+sohaib khan
+*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submitbutton{
+    border: solid black 2px;
+    margin-left: 5cm;
+    margin-top: 0.5cm;
+}
+
+#callsdiv{
+    margin-top: 5px;
+}
+
+#wholeform{
+    align-content: center;
+}
